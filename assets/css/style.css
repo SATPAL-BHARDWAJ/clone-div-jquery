@@ -1,0 +1,15 @@
+.text-left {
+    text-align: left;
+}
+
+/* Theme */
+
+.bg-theme {
+	background-color: #3f3d56;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+/* End of theme specific */
